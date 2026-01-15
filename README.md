@@ -12,7 +12,7 @@ A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. 
 
 ## Live Demo
 
-[Live Link Here](tic-tac-toe-six-pearl-69.vercel.app)
+[Live Link Here](https://tic-tac-toe-six-pearl-69.vercel.app/)
 
 ## Getting Started
 
